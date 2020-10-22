@@ -9,18 +9,23 @@
 I'm a Computer Engineering student at the National Autonomous University of Mexico (UNAM - FI). 
 I like pentesting, clean software development and artificial intelligence applied to finance and OSINT.
 
-**My tools**
+### My tools
 
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <br/>
+</br>
+  <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
+  <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
+<code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg"></code>
+  </br>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <br/>
+  </br>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
@@ -43,7 +48,7 @@ I like pentesting, clean software development and artificial intelligence applie
   <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 </p>
 
-**git dev "CV":**
+### git dev "CV":
 <p>
   <a href="https://github.com/valdrST">
     <img width="100%" align="right" alt="Angel's github stats" src="https://github-readme-stats.vercel.app/api?username=valdrST&show_icons=true&hide_border=true" />
