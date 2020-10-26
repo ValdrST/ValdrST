@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valdrst/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valdr.stiglitz@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:dark_reggae_93@comunidad.unam.mx)
+[![HackTheBox](https://www.hackthebox.eu/badge/image/162581)](https://www.hackthebox.eu/profile/162581) Banned!, HTB backup account :( 
 --
 
 I'm a Computer Engineering student at the National Autonomous University of Mexico (UNAM - FI). 
