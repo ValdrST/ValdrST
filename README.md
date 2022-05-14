@@ -7,8 +7,7 @@
 [![HackTheBox](https://www.hackthebox.eu/badge/image/162581)](https://www.hackthebox.eu/profile/162581) Banned!, HTB backup account :( 
 --
 
-I'm a Computer Engineering student at the National Autonomous University of Mexico (UNAM - FI). 
-I like pentesting, clean software development and artificial intelligence applied to finance and OSINT.
+IT Engineer, mid-time pirate and pentester.
 
 ### My tools
 
